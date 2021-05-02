@@ -1,0 +1,14 @@
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\TruyumConsole.exe.config
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\TruyumConsole.exe
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\TruyumConsole.pdb
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\obj\Debug\TruyumConsole.csprojAssemblyReference.cache
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\obj\Debug\TruyumConsole.csproj.CoreCompileInputs.cache
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\obj\Debug\TruyumConsole.exe
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\obj\Debug\TruyumConsole.pdb
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Dao.dll
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Model.dll
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Utility.dll
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Dao.pdb
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\bin\Debug\Com.Cognizant.Truyum.Utility.pdb
+G:\CTS\CaseStudy\truYum\TruyumConsole\TruyumConsole\obj\Debug\TruyumConsole.csproj.CopyComplete

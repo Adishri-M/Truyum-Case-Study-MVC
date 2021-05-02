@@ -1,0 +1,6 @@
+G:\CTS\CaseStudy\truYum\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model\bin\Debug\Com.Cognizant.Truyum.Model.dll
+G:\CTS\CaseStudy\truYum\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model\bin\Debug\Com.Cognizant.Truyum.Model.pdb
+G:\CTS\CaseStudy\truYum\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model\obj\Debug\Com.Cognizant.Truyum.Model.csprojAssemblyReference.cache
+G:\CTS\CaseStudy\truYum\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model\obj\Debug\Com.Cognizant.Truyum.Model.csproj.CoreCompileInputs.cache
+G:\CTS\CaseStudy\truYum\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model\obj\Debug\Com.Cognizant.Truyum.Model.dll
+G:\CTS\CaseStudy\truYum\Com.Cognizant.Truyum.Model\Com.Cognizant.Truyum.Model\obj\Debug\Com.Cognizant.Truyum.Model.pdb
